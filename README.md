@@ -13,7 +13,7 @@
 - 💬 Ask me about ... DATA STRUCTURES AND ALGORITHMS
 
 
-- 📫 How to reach me: ... [Mail](kaushikkumarmlore@gmail.com)
+- 📫 How to reach me: ... kaushikkumarmlore@gmail.com
 
 
 
