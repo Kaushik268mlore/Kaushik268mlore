@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ... Any Full Scale Golang Projects.
 
 
-- 🤔 I’m looking for help with ... Nothing for now
+- 🤔 I’m looking for help with ... Opportunities to intern
 
 
 - 💬 Ask me about ... DATA STRUCTURES AND ALGORITHMS
