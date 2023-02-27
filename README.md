@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ... Opportunities to intern
 
 
-- 💬 Ask me about ... DATA STRUCTURES AND ALGORITHMS
+- 💬 Ask me about ... Tech/Software Development/Competitive Programming/System Design
 
 
 - 📫 How to reach me: ... kaushikkumarmlore@gmail.com
